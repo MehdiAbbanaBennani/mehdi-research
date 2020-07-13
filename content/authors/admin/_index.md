@@ -64,7 +64,7 @@ user_groups:
 - Visitors
 ---
 
-Mehdi Abbana Bennani is a Machine Learning Engineer at Aqemia. 
-He is currently working on challenges related to applying Machine Learning for Drug Discovery, developping and
+I work currently as a Machine Learning Engineer at Aqemia. 
+I focus on challenges related to applying Machine Learning for Drug Discovery, developping and
  applying techniques related to Active
  Learning, Reinforcement Learning, Small Data Supervised Learning, NLP ...
