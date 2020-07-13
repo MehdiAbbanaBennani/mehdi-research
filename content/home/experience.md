@@ -24,8 +24,7 @@ date_format = "Jan 2006"
   location = "Austin, TX"
   date_start = "2019-01-04"
   date_end = "2019-04-16"
-  description = """
-  """
+  description = """ """
 
 [[experience]]
   title = "Research Intern"
@@ -34,5 +33,5 @@ date_format = "Jan 2006"
   location = "Tokyo, Japan"
   date_start = "2019-04-21"
   date_end = "2019-09-16"
-  description = """
+  description = """ """
 +++
