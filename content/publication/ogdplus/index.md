@@ -1,6 +1,6 @@
 ---
 title: "Generalisation Guarantees for Continual Learning with Orthogonal Gradient Descent"
-date: 2020-01-01
+date: 2020-06-20
 publishDate: 2020-07-10
 authors: ["Mehdi Abbana Bennani", "Masashi Sugiyama"]
 publication_types: ["1"]
